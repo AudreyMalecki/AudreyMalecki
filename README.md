@@ -1,4 +1,6 @@
-### 👋 Hello! I'm Audrey 🤩
+# 👋 Hello! I'm Audrey 🤩
+
+I am a former Online Advertising Consultant and as I tend to automate a few things around me, I moved to Data & Ops field ⚙️📊 That's how I ended up to take the Data Science Bootcamp @ Le Wagon 🚂
 
 <!--
 **AudreyMalecki/AudreyMalecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
