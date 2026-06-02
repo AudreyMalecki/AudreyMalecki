@@ -51,11 +51,11 @@ Unix shell implemented in C with process management, pipes, redirections, enviro
 - DevOps Practices
 - Distributed Systems
 
-## 🎓 Background
+## 🎓 Previous Background
 
-Before joining 42 School, I completed Le Wagon's Data Science Bootcamp, where I worked on data analysis, machine learning, and Python-based projects.
+Before joining 42 School, I completed Le Wagon's Data Science Bootcamp, where I developed strong foundations in Python, data analysis, and machine learning.
 
-This experience strengthened my analytical skills and sparked my interest in software engineering and automation.
+This experience sparked my interest in software engineering and automation.
 
 ## 📫 Connect With Me
 
