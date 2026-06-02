@@ -1,18 +1,68 @@
-# 👋 Hello! I'm Audrey 🤩
+# Hi there 👋 I'm Audrey
 
-I am a former Online Advertising Consultant and as I tend to automate a few things around me, I moved to Data & Ops field ⚙️📊 That's how I ended up to take the Data Science Bootcamp @ Le Wagon 🚂 to learn & develop technical skills 🚀
+**Former Data & Operations Manager turned Backend Developer.**
 
-<!--
-**AudreyMalecki/AudreyMalecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building reliable systems, automating workflows, and understanding how things work under the hood — from HTTP servers and Unix shells to containerized applications and microservices architectures.
 
-Here are some ideas to get you started:
+Currently studying at **42 School in Paris**, where I'm building expertise in backend development, systems programming, networking, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### ft_transcendence
+Multiplayer web application built with a microservices architecture using Docker, Express.js, Prisma, and PostgreSQL.
+
+### Webserv
+HTTP/1.1 web server developed in C++, featuring socket management, request parsing, CGI execution, and server configuration.
+
+### Inception
+Multi-container infrastructure built with Docker Compose, Nginx, MariaDB, and WordPress.
+
+### Minishell
+Unix shell implemented in C with process management, pipes, redirections, environment variables, and signal handling.
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- JavaScript
+- Python
+- SQL
+
+### Backend & Databases
+- Node.js
+- Express
+- PostgreSQL
+- MariaDB
+- Prisma
+
+### DevOps & Infrastructure
+- Docker
+- Docker Compose
+- Nginx
+- Linux
+- Git
+- GitHub Actions
+
+## 🌱 Currently Learning
+
+- Software Architecture
+- Backend Engineering
+- DevOps Practices
+- Distributed Systems
+
+## 🎓 Background
+
+Before joining 42 School, I completed Le Wagon's Data Science Bootcamp, where I worked on data analysis, machine learning, and Python-based projects.
+
+This experience strengthened my analytical skills and sparked my interest in software engineering and automation.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/audreymalecki
+- GitHub: https://github.com/AudreyMalecki
+
+---
+
+💃 Outside of tech, I enjoy dancing and getting lost in a good book.
+
