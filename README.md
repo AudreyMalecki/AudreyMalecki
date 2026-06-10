@@ -49,7 +49,6 @@ Unix shell implemented in C with process management, pipes, redirections, enviro
 - Software Architecture
 - Backend Engineering
 - DevOps Practices
-- Distributed Systems
 
 ## 🎓 Previous Background
 
