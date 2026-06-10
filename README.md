@@ -8,19 +8,28 @@ Currently studying at **42 School in Paris**, where I'm building expertise in ba
 
 ## 🚀 Featured Projects
 
-### ft_transcendence
+### ft_uno
+
+🔗 [View Repository](https://github.com/AudreyMalecki/ft_uno)
+
 Multiplayer web application built with a microservices architecture using Docker, Express.js, Prisma, and PostgreSQL.
 
 ### Webserv
+
+🔗 [View Repository](https://github.com/AudreyMalecki/webserv)
+
 HTTP/1.1 web server developed in C++, featuring socket management, request parsing, CGI execution, and server configuration.
 
 ### Inception
 
-🔗 [View Repository](https://github.com/AudreyMalecki/Inception)
+🔗 [View Repository](https://github.com/AudreyMalecki/inception)
 
 Multi-container infrastructure built with Docker Compose, Nginx, MariaDB, and WordPress.
 
 ### Minishell
+
+🔗 [View Repository](https://github.com/AudreyMalecki/minishell)
+
 Unix shell implemented in C with process management, pipes, redirections, environment variables, and signal handling.
 
 ## 🛠️ Tech Stack
